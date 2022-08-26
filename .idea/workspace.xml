@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45d3d712-b752-46c5-9683-f9feac833d23" name="Changes" comment="250822">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/modelo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/modelo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
