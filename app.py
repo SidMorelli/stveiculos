@@ -4,7 +4,7 @@ from flask import Flask, render_template
 app = Flask(__name__, template_folder='templates')
 
 # usar "" para rota
-@app.route("/modelo.html")
+@app.route("/templates")
 def index():
     return render_template('modelo.html')
 
